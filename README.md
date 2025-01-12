@@ -1,6 +1,11 @@
 # 👾 Running Evana.exe ...
-> Booting... ██████████ 100%
-> > **"System online. Creativity and caffeine at optimal levels."**
+```bash
+evana@github:~$ ./boot.sh
+[✔] Booting... ██████████ 100%
+[✔] Welcome, user.
+[✔] System online. Ready to explore creativity.
+evana@github:~$ _
+```
 
 
 # 💻 Tech Stack:
