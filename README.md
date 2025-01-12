@@ -1,9 +1,9 @@
 # 👾 Running evana.exe ...
 ```bash
-evana@github:~$ ./boot.sh
+evana@github:~$ ./evana.sh
 [✔] Booting... ██████████ 100%
 [✔] Welcome, user.
-[✔] **"System online. Creativity and caffeine at optimal levels."**
+[✔] "System online. Creativity and caffeine at optimal levels."
 evana@github:~$ _
 ```
 
